@@ -1,0 +1,9 @@
+key,es,en,fr,ru,ptbr
+window_title,Spammer de Teclado,Keyboard Spammer,Spammeur de Clavier,Спамер Клавиатуры,Spammer de Teclado
+base_key_label,Tecla base (spam):,Base key (spam):,Touche de base (spam) :,Базовая клавиша (спам):,Tecla base (spam):
+start_key_label,Tecla inicio/stop:,Start/stop key:,Touche démarrer/arrêter :,Клавиша запуска/остановки:,Tecla iniciar/parar:
+interval_label,Intervalo (ms):,Interval (ms):,Intervalle (ms) :,Интервал (мс):,Intervalo (ms):
+status_label_stopped,Estado: Detenido,Status: Stopped,Statut : Arrêté,Состояние: Остановлено,Estado: Parado
+status_label_running,Estado: En ejecución,Status: Running,Statut : En cours,Состояние: Выполняется,Estado: Em execução
+error_on_press,Error en on_press:,Error in on_press:,Erreur dans on_press :,Ошибка в on_press:,Erro em on_press:
+language_label,Idioma:,Language:,Langue :,Язык:,Idioma:

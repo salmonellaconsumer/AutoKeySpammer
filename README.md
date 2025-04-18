@@ -35,7 +35,7 @@ Follow these steps to create the environment, install dependencies, and run the 
 If you haven’t already, start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/auto-key-spammer.git
+git clone https://github.com/GersonRess/AutoKeySpammer.git
 cd auto-key-spammer
 ```
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 Alternatively, you can manually install the libraries with the following commands:
 
 ```bash
-pip install pynput pyautogui
+pip install pynput pyautogui tk
 ```
 
 - For **Linux users**, make sure you have `xdotool` installed by running:
@@ -100,13 +100,6 @@ This will launch the graphical user interface (GUI) where you can configure your
 
 ---
 
-## WINDOWS USERS: Please Note
-
-- Windows Defender may flag the executable from the releases as a virus. This is a common issue with PyInstaller.
-  If it causes too much trouble or makes you feel uncomfortable, consider running the program using Python directly instead.
-
-
----
 
 ## Linux Specific Requirements
 
