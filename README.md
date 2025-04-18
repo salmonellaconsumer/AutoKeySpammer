@@ -19,7 +19,8 @@ Auto Key Spammer is a lightweight tool designed to repeatedly press a specific k
 
 ## Requirements
 
-- **Python 3.x** (for testing or compiling the program; releases will be available later).
+- **Python 3.x** 
+    - `tk` library: Install with `pip install tk`.
     - `pynput` library: Install with `pip install pynput`.
     - `pyautogui` library: Install with `pip install pyautogui`.
     - `xdotool` (Linux only): Install with `sudo apt install xdotool`.
@@ -36,8 +37,28 @@ If you haven’t already, start by cloning this repository to your local machine
 
 ```bash
 git clone https://github.com/GersonRess/AutoKeySpammer.git
-cd auto-key-spammer
+cd AutoKeySpammer
 ```
+
+---
+
+## Quick Start with Script
+
+To make setup easier, you can use the included script for your platform:
+
+- **Windows**: Double-click `KeySpammer_Windows.bat`
+
+- **Linux/macOS**: Run `./KeySpammer_Linux.sh` in your terminal or double click it
+
+Make sure to give execution permissions first (linux):
+
+```bash
+chmod +x KeySpammer_Linux.sh
+```
+
+---
+
+### Manual Method
 
 ### 2. Create a Virtual Environment
 
