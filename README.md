@@ -20,10 +20,6 @@ Auto Key Spammer is a lightweight tool designed to repeatedly press a specific k
 ## Requirements
 
 - **Python 3.x** 
-    - `tk` library: Install with `pip install tk`.
-    - `pynput` library: Install with `pip install pynput`.
-    - `pyautogui` library: Install with `pip install pyautogui`.
-    - `xdotool` (Linux only): Install with `sudo apt install xdotool`.
 
 ---
 
